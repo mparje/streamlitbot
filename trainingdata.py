@@ -1,4 +1,3 @@
-﻿
 training_dataset = [
     Constitución Política de la República de Guatemala.
 (Reformada por Acuerdo legislativo No. 18-93 del 17 de Noviembre de 1993)
